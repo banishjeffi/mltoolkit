@@ -39,7 +39,7 @@
 
 ### Key Features:
 
-✅ **Single-Line Model Training ** - Train multiple ML models simultaneously with minimal code.
+✅ **Single-Line Model Training** - Train multiple ML models simultaneously with minimal code.
 
 ✅ **Automated Accuracy Comparison** – Generates performance tables and highlights the best model.
 

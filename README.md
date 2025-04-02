@@ -39,25 +39,25 @@
 
 ### Key Features:
 
-✅ Single-Line Model Training –** Train multiple ML models simultaneously with minimal code.
+✅ **Single-Line Model Training ** - Train multiple ML models simultaneously with minimal code.
 
-✅ Automated Accuracy Comparison – Generates performance tables and highlights the best model.
+✅ **Automated Accuracy Comparison** – Generates performance tables and highlights the best model.
 
-✅ Boosts Productivity – Reduces repetitive tasks, speeding up research and deployment.
+✅ **Boosts Productivity** – Reduces repetitive tasks, speeding up research and deployment.
 
 ### Use Cases:
 
-🔹 Quick Prototyping – Ideal for testing multiple algorithms in research or hackathons.
+🔹 **Quick Prototyping** – Ideal for testing multiple algorithms in research or hackathons.
 
-🔹 Automated Benchmarking – Compare models effortlessly for optimal performance.
+🔹 **Automated Benchmarking** – Compare models effortlessly for optimal performance.
 
-🔹 Beginner-Friendly ML – Simplifies model training for students and new developers.
+🔹 **Beginner-Friendly ML** – Simplifies model training for students and new developers.
 
 **Why It Stands Out:**
 
-🚀 Saves Time – No manual coding for each model; instant results.
+🚀 **Saves Time** – No manual coding for each model; instant results.
 
-📊 Smart Decision-Making – Auto-selects the best model based on accuracy.
+📊 **Smart Decision-Making** – Auto-selects the best model based on accuracy.
 
 
 
